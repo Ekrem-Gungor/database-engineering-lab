@@ -12,7 +12,7 @@ Bu projenin amacı, aşağıdaki gibi gerçek dünya veritabanı problemlerini k
 - Önbellekleme
 - Veri mühendisliği temelleri
 
-## STeknoloji Yığını
+## Teknoloji Yığını
 
 - PostgreSQL
 - Docker
@@ -23,12 +23,12 @@ Bu projenin amacı, aşağıdaki gibi gerçek dünya veritabanı problemlerini k
 
 Bu proje, semantik versiyonlama yöntemini takip eder.
 
-v0.0.0 → İlk laboratuvar kurulumu
-v0.1.0 → Aşama 1 SQL Challenges
-v0.2.0 → Sorgu optimizasyonu
-v0.3.0 → İşlemler ve eşzamanlılık
-v0.4.0 → Operasyonlar ve güvenilirlik
-v1.0.0 → Tamamlanmış veritabanı mühendisliği laboratuvarı
+- v0.0.0 → İlk laboratuvar kurulumu
+- v0.1.0 → Aşama 1 SQL Challenges
+- v0.2.0 → Sorgu optimizasyonu
+- v0.3.0 → İşlemler ve eşzamanlılık
+- v0.4.0 → Operasyonlar ve güvenilirlik
+- v1.0.0 → Tamamlanmış veritabanı mühendisliği laboratuvarı
 
 ## Alan adı
 
